@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "proxy": "https://backend-51iyr7rji-ayushoopps-projects.vercel.app/api/",
+  "proxy": "https://backend-51iyr7rji-ayushoopps-projects.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
